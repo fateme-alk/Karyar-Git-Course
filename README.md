@@ -31,4 +31,6 @@ If you've finished the course, please add your name and github account in a Pull
 | Mohammad Akbary | [Github](https://github.com/MohammadAky) | 
 | Hossein KorhaniShirazi | [Github](https://github.com/HosseinKoehaniShirazi) | 
 | Mohammad Ali Baghaei | [Github](https://github.com/Maziar1996) |
-|Morteza Jahesh| [Github](https://github.com/mortezajahesh79)|
+| Morteza Jahesh | [Github](https://github.com/mortezajahesh79)|
+| Mohadeseh Nasirzadeh | [Github](https://github.com/mohadesehnasirzadeh) |
+| Hadiseh Khamar | [Github](https://github.com/hadiseh0) |
